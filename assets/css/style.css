@@ -1,0 +1,17 @@
+@charset "UTF-8";
+
+body {
+    background-image: url(../images/bkg.jpg);
+    background-size: cover;
+     }  
+
+#img{
+    width: "250px" ;
+    height: "250px";
+    border: none;
+}
+
+#top {
+    text-align:center; 
+    color:white
+}
